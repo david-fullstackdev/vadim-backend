@@ -43,7 +43,7 @@
     "knex": "^0.14.0",
     "knex-cleaner": "^1.1.3",
     "lodash": "^4.17.4",
-    "mongoose": "^4.11.7",
+    "mongoose": "^5.7.5",
     "morgan": "^1.8.2",
     "node-spawn": "0.0.7",
     "node-ssh": "^5.0.0",
