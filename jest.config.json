@@ -1,0 +1,12 @@
+{
+  "testEnvironment": "node",
+  "testRegex": "(/__tests__/.*|\\.(test|spec))\\.(tsx?|jsx?)$",
+  "testPathIgnorePatterns": [
+    "/node_modules/"
+  ],
+  "moduleFileExtensions": [
+    "js",
+    "json",
+    "jsx"
+  ]
+}

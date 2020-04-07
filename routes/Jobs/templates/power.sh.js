@@ -1,0 +1,1 @@
+module.exports = (job_id) => `/sasgrid/gsub_client/config/Lev1/Applications/SASGridManagerClientUtility/9.4/sasgsub -gridsubmitpgm imt/${job_id}/extract.sas -METAUSER user.mueller -METAPASS {SAS002}92A3D5351CE25634488A48B11E5E6C9D2BD87C7F`
