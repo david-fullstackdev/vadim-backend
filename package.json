@@ -33,7 +33,7 @@
     "d3": "^4.10.0",
     "dotenv": "^4.0.0",
     "express": "^4.15.4",
-    "express-fileupload": "^0.3.0",
+    "express-fileupload": "^1.1.9",
     "express-jwt": "^5.3.0",
     "express-ws": "^3.0.0",
     "fs-extra": "^5.0.0",
