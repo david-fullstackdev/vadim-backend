@@ -22,7 +22,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^1.0.2",
+    "bcrypt": "^5.0.0",
     "bluebird": "^3.5.1",
     "body-parser": "^1.17.2",
     "casual": "^1.5.17",
